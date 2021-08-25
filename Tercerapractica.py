@@ -1,4 +1,4 @@
-#ibreria para generar datos aleatorios
+#Libreria para generar datos aleatorios
 import random
 
 #Libreria para generar graficas
@@ -13,7 +13,7 @@ lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print("lista original", lista)
 #mezcla los elementos de la lista al azar
 random.shuffle(lista)
-#imprime la lista mezclada
+#Imprime la lista mezclada
 print("lista mixeada", lista)
 
 #genera una grafica de campana de gauss

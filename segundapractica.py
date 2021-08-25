@@ -14,7 +14,6 @@ elif tuedad >= 100:
 else :
     print("Eres menor de edad")
 
-#estructura de control for
+#Estructura de control for
 for i in range (0, 10):
     print(i)
-
