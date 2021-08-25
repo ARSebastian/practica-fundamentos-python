@@ -6,7 +6,7 @@ print("Hola, {}". format (nombre))
 tuedad = input("introduce tu edad:")
 tuedad = int(tuedad)
 
-#estructura de control if
+#Estructura de control if
 if tuedad >= 18 and tuedad < 100:
     print("eres mayor de edad")
 elif tuedad >= 100:

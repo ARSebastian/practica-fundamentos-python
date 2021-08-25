@@ -1,7 +1,7 @@
 #ibreria para generar datos aleatorios
 import random
 
-#libreria para generar graficas
+#Libreria para generar graficas
 import matplotlib.pyplot as plt
 
 #Generar un numero aleatorio y lo imprime
